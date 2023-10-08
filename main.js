@@ -75,11 +75,11 @@ console.log((coffeeCupPrice+taxRate+tip)*numberOfCoffeeCup)
 //Qus 9
 /*Write an expression that represents the average grade of an exam, knowing that in a class of ten students,
  five of them got 24/30, two of them got 16/30 and the remainder got 29/30.*/
- const gradeOne=24
- const gradeTwo=16
- const gradeThree=29
+ const markOne=24
+ const markTwo=16
+ const markThree=29
  const numberOfStudents=10
- console.log(((gradeOne*5)+(gradeTwo*2)+(gradeThree*3))/numberOfStudents)
+ console.log(((markOne*5)+(markTwo*2)+(markThree*3))/numberOfStudents)
 
  //Qus 10
  //Write expressions that calculate the area and the perimeter of a rectangle with the length of 10m and width of 5m.
