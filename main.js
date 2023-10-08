@@ -79,7 +79,8 @@ console.log((coffeeCupPrice+taxRate+tip)*numberOfCoffeeCup)
  const markTwo=16
  const markThree=29
  const numberOfStudents=10
- console.log(((markOne*5)+(markTwo*2)+(markThree*3))/numberOfStudents)
+ let averageGrade=((markOne*5)+(markTwo*2)+(markThree*3))/numberOfStudents
+ console.log(averageGrade)
 
  //Qus 10
  //Write expressions that calculate the area and the perimeter of a rectangle with the length of 10m and width of 5m.
